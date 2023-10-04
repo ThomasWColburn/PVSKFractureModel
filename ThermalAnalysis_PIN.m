@@ -65,7 +65,7 @@ Gc_PCBMAgEvap = min(Gc_PCBM, Gc_Ag_evap);
 Gc_PCBMAgScreen = min(Gc_PCBM, Gc_Ag_screen);
 
 % Define the "default" temperatures felt by the layers during processing
-delta_T_ITO_default = 325;
+delta_T_ITO_default = 400;
 delta_T_NiO_default = 275;
 delta_T_PVSK_spin_default = 75;
 delta_T_PVSK_hotcast_default = 85;
