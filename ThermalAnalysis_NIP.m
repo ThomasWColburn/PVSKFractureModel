@@ -62,7 +62,7 @@ Gc_SnOxPVSKhotcast = min(Gc_SnOx, Gc_PVSKhotcast);
 Gc_SnOxPVSKspincoat = min(Gc_SnOx, Gc_PVSKspincoat);
 
 % Define the "default" temperatures felt by the layers during processing
-delta_T_ITO_default = 325;
+delta_T_ITO_default = 400;
 delta_T_SnOx_default = 155;
 delta_T_PVSK_spin_default = 75;
 delta_T_PVSK_hotcast_default = 85;
